@@ -1,4 +1,4 @@
-**Website**: https://cliphd.ga
+**Website**: 2wnis
 
 ### FAQ
 * **What do you use to host? Is it free?**
